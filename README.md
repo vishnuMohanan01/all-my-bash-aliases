@@ -54,6 +54,11 @@ This aliases the command `ls -A` with the keyword `la`. You can check more about
 If you prefer reading in simple words, go check this [article in linuxize](https://linuxize.com/post/how-to-create-bash-aliases/).
 
 
+
+
+
+>
+>
 > Please note that `all-my-bash-aliases` works in shells other than bash too. i.e, in case your are using `zsh` as the default shell then you must be
 > using `$HOME/.zshrc`
 > whenever this installation guide refers to `$HOME/.bashrc`.
