@@ -53,9 +53,12 @@ This aliases the command `ls -A` with the keyword `la`. You can check more about
 
 If you prefer reading in simple words, go check this [article in linuxize](https://linuxize.com/post/how-to-create-bash-aliases/).
 
+## Upgrade to latest
 
-
-
+Open up terminal and Change directory to `$HOME/.all-my-bash-aliases`. Run:
+```shell
+git pull origin main --force
+```
 
 >
 >
