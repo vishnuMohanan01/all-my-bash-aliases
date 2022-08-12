@@ -57,7 +57,7 @@ If you prefer reading in simple words, go check this [article in linuxize](https
 
 Open up terminal and Change directory to `$HOME/.all-my-bash-aliases`. Run:
 ```shell
-git pull origin main --force
+git pull origin main --force && source $HOME/.bashrc
 ```
 
 >
