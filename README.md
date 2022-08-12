@@ -20,8 +20,8 @@ git clone https://github.com/vishnuMohanan01/all-my-bash-aliases.git .all-my-bas
 3. In your `.bashrc`, add:
 
 ```shell
-# For all-my-bash-aliases
-source $HOME/.all-my-bash-aliases > /dev/null 2>&1
+# For setting all-my-bash-aliases
+source $HOME/.all-my-bash-aliases/import_all.sh > /dev/null 2>&1
 ```
 
 4. Reload your shell by:
